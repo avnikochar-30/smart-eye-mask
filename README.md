@@ -28,7 +28,7 @@ The complete project report is available in this repository:
 <img width="1080" height="608" alt="demopic" src="https://github.com/user-attachments/assets/bd0f36e3-84dc-4f83-89c9-422f342f989c" />
 <img width="608" height="1080" alt="mask" src="https://github.com/user-attachments/assets/b31b9d72-b62b-413f-8f71-00046cd817cf" />
 <img width="1080" height="608" alt="calm_mode" src="https://github.com/user-attachments/assets/bd7f6227-1ac6-4e45-8bad-4354893b2674" />
-<img width="608" height="1080" alt="mask" src="https://github.com/user-attachments/assets/3323eb09-4cc8-422c-8883-cd21759bfbc0" />
+
 
 
 
